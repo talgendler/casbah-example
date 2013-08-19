@@ -1,0 +1,17 @@
+language: scala
+scala:
+  - 2.10.1
+# Branches to test
+branches:
+  only:
+    - master
+notifications:
+  email:
+    recipients:
+      - tal.gendler@gmail.com
+jdk:
+  - openjdk6
+  - openjdk7
+  - oraclejdk7
+services:
+  - mongodb

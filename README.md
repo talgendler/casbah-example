@@ -1,7 +1,6 @@
 casbah
 ======
+#### Info: Some examples using casbah - scala toolkit for mongoDB
 
-Some examples using casbah - scala toolkit for mongoDB
 
-.. image:: https://travis-ci.org/talgendler/casbah.png?branch=master
-  :target: https://travis-ci.org/talgendler/casbah
+[![Build Status](https://travis-ci.org/talgendler/casbah.png?branch=master)](https://travis-ci.org/talgendler/casbah)
